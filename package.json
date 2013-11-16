@@ -1,0 +1,9 @@
+{
+  "name": "charlie-tanksley",
+  "version": "0.1.0",
+  "author": "Charlie Tanksley <charlie@tanksley.me>",
+  "description": "My website",
+  "devDependencies": {
+    "sass-watch": "~0.1.0"
+  }
+}
