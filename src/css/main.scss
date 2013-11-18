@@ -9,14 +9,10 @@
 
 @import "core/layout";
 @import "modules/home_page";
+@import "modules/navigation";
 
 %top-border {
   border-top: 1px solid $green;
-}
-.nav {
-  font-size: 1.8em;
-  padding-left: 0.4em;
-  margin-left: 0;
 }
 
 .curriculum-vitae {

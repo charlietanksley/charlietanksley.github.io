@@ -1,0 +1,14 @@
+%nav-font {
+  font-size: 1.8em;
+}
+
+.nav {
+  @extend %nav-font;
+  padding-left: 0.4em;
+  margin-left: 0;
+}
+
+.home-link {
+  @extend %nav-font;
+  margin-top: 0.5em;
+}

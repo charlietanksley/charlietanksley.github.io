@@ -1,3 +1,19 @@
-section {
+.major-section {
+  height: 100%;
   min-height: 600px;
+  position: relative;
+}
+
+.heading {
+  padding-top: 1em;
+}
+
+.has-footnote {
+  padding-bottom: 75px;
+}
+
+.footnote {
+  height: 75px;
+  position: absolute;
+  bottom: 0;
 }
